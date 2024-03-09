@@ -1,5 +1,5 @@
 # new shizoval
-https://discord.gg/AMhGg6QH
+https://discord.gg/xWSUBhVqmN
 
 # Features:
 

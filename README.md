@@ -14,7 +14,7 @@ https://discord.gg/xWSUBhVqmN
 # Binds:
 * `R.SHIFT` - toogle FlyHack
 * `Q/E` - up/down position for fly hack
-* 'WASD' - move with fly hack
+* `WASD` - move with fly hack
 
 
 # Getting started

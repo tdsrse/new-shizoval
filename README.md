@@ -18,6 +18,12 @@ https://discord.gg/xWSUBhVqmN
 * `WASD` - move with fly hack
 * `R`   - teleport shells on enemy(clumsy)
 
+# How to use Clumsy?
+1. activated it in menu
+2. Choose some enemy in tab(just press on nickname)
+3. Start save shells(just shooting)
+4.  press `R` when u want kill ur enemy
+
 
 
 # How to getting started?

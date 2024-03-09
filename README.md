@@ -17,7 +17,6 @@ https://discord.gg/xWSUBhVqmN
 * `Q/E` - up/down position for fly hack
 * `WASD` - move with fly hack
 * `R`   - teleport shells on enemy(clumsy)
-* 
 
 
 # Getting started

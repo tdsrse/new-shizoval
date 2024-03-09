@@ -15,6 +15,7 @@ https://discord.gg/xWSUBhVqmN
 * `R.SHIFT` - toogle FlyHack
 * `Q/E` - up/down position for fly hack
 * `WASD` - move with fly hack
+* `R`   - teleport shells on enemy /*for clumsy*/
 
 
 # Getting started

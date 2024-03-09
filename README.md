@@ -7,7 +7,6 @@ https://discord.gg/AMhGg6QH
  * FPS Hack - Remove all mines
  * Freeze Tanks - Freeze all tanks
  * Clumsy - one shot for Smoky/Gauss
- * Anti-Aim - teleport your tank only for enemy
  * AimBot  - Aim Assist for all turrets
  * NoEffect - remove some effects
  * AutoShooting - auto shoot for all turrets

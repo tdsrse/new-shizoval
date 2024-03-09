@@ -20,7 +20,7 @@ https://discord.gg/xWSUBhVqmN
 
 
 
-# Getting started
+# How to getting started?
 1. Install Tampermonkey - https://www.tampermonkey.net/
 2. Install script - soon
 

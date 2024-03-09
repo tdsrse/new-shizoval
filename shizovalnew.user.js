@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name             shizoval new
 // @author           Alastor, tdsrse, sheezzmee
-// @version          2.0.3
+// @version          0.1
 
 // @match            https://*.test-eu.tankionline.com/browser-public/index.html?*
 // @match            https://tankionline.com/play*

@@ -12,8 +12,9 @@ https://discord.gg/xWSUBhVqmN
  * AutoShooting - auto shoot for all turrets
 
 # Binds:
-`R.SHIFT` - toogle FlyHack
-`Q/E` - up/down position for fly hack
+* `R.SHIFT` - toogle FlyHack
+* `Q/E` - up/down position for fly hack
+
 
 # Getting started
 1. Install Tampermonkey - https://www.tampermonkey.net/

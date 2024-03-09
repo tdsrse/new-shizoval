@@ -11,6 +11,9 @@ https://discord.gg/xWSUBhVqmN
  * NoEffect - remove some effects
  * AutoShooting - auto shoot for all turrets
 
+# Binds:
+`R.SHIFT` - toogle FlyHack
+
 # Getting started
 1. Install Tampermonkey - https://www.tampermonkey.net/
 2. Install script - soon

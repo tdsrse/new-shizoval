@@ -13,6 +13,7 @@ https://discord.gg/xWSUBhVqmN
 
 # Binds:
 `R.SHIFT` - toogle FlyHack
+`Q/E` - up/down position for fly hack
 
 # Getting started
 1. Install Tampermonkey - https://www.tampermonkey.net/

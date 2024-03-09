@@ -22,7 +22,7 @@ https://discord.gg/xWSUBhVqmN
 1. activated it in menu
 2. Choose some enemy in tab(just press on nickname)
 3. Start save shells(just shooting)
-4.  press `R` when u want kill ur enemy
+4.  press `R` when u want kill your enemy
 
 
 

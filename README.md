@@ -13,7 +13,8 @@ https://discord.gg/AMhGg6QH
  * AutoShooting - auto shoot for all turrets
 
 # Getting started
-1. Install Tampermonkey - here
+1. Install Tampermonkey - https://www.tampermonkey.net/
+2. Install script - soon
 
 
 

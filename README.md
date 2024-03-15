@@ -29,6 +29,6 @@ Discord server: https://discord.gg/xWSUBhVqmN
  2. Install script - *working*
 
 
-![Menu]([http://url/to/img.png](https://sun9-75.userapi.com/impg/ff1TfjW47taysjmypxGkrBuBJAT6M3_npH6nwg/A1T2Vkvmae4.jpg?size=1545x970&quality=96&sign=a2a5a8b60bf188000973fbdea9ec8adc&type=album)https://sun9-75.userapi.com/impg/ff1TfjW47taysjmypxGkrBuBJAT6M3_npH6nwg/A1T2Vkvmae4.jpg?size=1545x970&quality=96&sign=a2a5a8b60bf188000973fbdea9ec8adc&type=album)
+![Menu](https://github.com/[tdsrse]/[new/shizoval]/blob/main/A1T2Vkvmae4.jpg?raw=true)
 
 

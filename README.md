@@ -1,34 +1,32 @@
-# new shizoval
-https://discord.gg/xWSUBhVqmN
+# New shizoval
+* Discord server: https://discord.gg/xWSUBhVqmN
 
 # Features:
 
- * FlyHack - Simple Fly Hack
+ * Fly Hack - Simple Fly Hack
  * FPS Hack - Remove all mines
  * Freeze Tanks - Freeze all tanks
- * Clumsy - one shot for Smoky/Gauss
+ * Clumsy - One shot for Smoky/Gauss
  * AimBot  - Aim Assist for all turrets
- * NoEffect - remove some effects
- * AutoShooting - auto shoot for all turrets
+ * NoEffect - Remove some effects
+ * AutoShooting - Auto shoot for all turrets
 
 # Binds:
-* `insert` - toggle for menu 
-* `R.SHIFT` - toogle FlyHack
-* `Q/E` - up/down position for fly hack
-* `WASD` - move with fly hack
-* `R`   - teleport shells on enemy(clumsy)
+* `INSERT` - Toggle for menu 
+* `R.SHIFT` - Toogle FlyHack
+* `Q/E` - Up/down position for fly hack
+* `WASD` - Move with fly hack
+* `R`   - Teleport shells on enemy(clumsy)
 
 # How to use Clumsy?
 1. Activated it in menu
 2. Choose some enemy in tab(just press on nickname)
 3. Start save shells(just shooting)
-4.  press `R` when u want kill your enemy
+4. Press `R` when u want kill your enemy
 
-
-
-# How to getting started?
+# How to install?
 1. Install Tampermonkey - https://www.tampermonkey.net/
-2. Install script - soon
+2. Install script - *working*
 
 
 

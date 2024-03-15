@@ -26,7 +26,7 @@ Discord server: https://discord.gg/xWSUBhVqmN
 
 # How to install?
  1. Install Tampermonkey - https://www.tampermonkey.net/
- 2. Install script - <a href=self.text>www.stackoverflow.com</a>
+ 2. Install script - https://github.com/tdsrse/new-shizoval/raw/8ee023e85bc28f2230a6e7c78930a144bb13e86f/shizovalnew.user.js
 
 
 ![Menu](https://github.com/tdsrse/new-shizoval/blob/main/A1T2Vkvmae4.jpg?raw=true)

@@ -1,4 +1,4 @@
-# New shizoval
+# new shizoval
 Discord server: https://discord.gg/xWSUBhVqmN
 
 # Features:

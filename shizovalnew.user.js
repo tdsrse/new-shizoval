@@ -779,10 +779,7 @@ class Features {
 			if (objects.features?.weapon?.clumsyEnabled) {
 				CCShells[Object.keys(CCShells)[6]] = 0.0001;
 				CCShells[Object.keys(CCShells)[4]] = 0.0001;
-			} else {
-				CCShells[Object.keys(CCShells)[6]] = 50000;
-				CCShells[Object.keys(CCShells)[4]] = 50000;
-			};
+			}
 		},
 
 		getTarget: function() {

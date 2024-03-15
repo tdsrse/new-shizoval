@@ -883,11 +883,11 @@ class Features {
 		get killZones() {
 			const killZones = utils.findByPath(objects.gameObjects.gameMode, "i:0.i:8")[1];
 			return {
-				minX: Object.entries(killZones)[0][1] + 500,
-				minY: Object.entries(killZones)[1][1] + 500,
-				minZ: Object.entries(killZones)[2][1] + 500,
-				maxX: Object.entries(killZones)[3][1] - 500,
-				maxY: Object.entries(killZones)[4][1] - 500,
+				minX: Object.entries(killZones)[0][1],
+				minY: Object.entries(killZones)[1][1],
+				minZ: Object.entries(killZones)[2][1],
+				maxX: Object.entries(killZones)[3][1],
+				maxY: Object.entries(killZones)[4][1],
 				maxZ: Object.entries(killZones)[5][1],
 			};
 		},

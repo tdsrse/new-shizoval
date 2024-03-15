@@ -6,7 +6,7 @@
 // @match            https://*.test-eu.tankionline.com/browser-public/index.html?*
 // @match            https://tankionline.com/play*
 
-// @description      Shizoval: Reborn
+// @description      shizoval: Reborn
 // @icon             https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
 
 // @grant            unsafeWindow

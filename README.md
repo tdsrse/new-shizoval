@@ -5,7 +5,7 @@ Discord server: https://discord.gg/xWSUBhVqmN
  * Fly Hack      <span style="margin-left: 40px;">- Simple Fly Hack</span>
  * FPS Hack      - Remove all mines
  * Freeze Tanks  - Freeze all tanks
- * Clumsy        - One shot for Smoky/Gauss
+ * OneShot       - One shot for Smoky/Gauss
  * AimBot        - Aim Assist for all turrets
  * NoEffect      - Remove some effects
  * AutoShooting  - Auto shoot for all turrets

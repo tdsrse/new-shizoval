@@ -2,7 +2,7 @@
 Discord server: https://discord.gg/xWSUBhVqmN
 
 # Features:
- * Fly Hack      - Simple Fly Hack
+ * Fly Hack      <span style="margin-right: 40px;">- Simple Fly Hack</span>
  * FPS Hack      - Remove all mines
  * Freeze Tanks  - Freeze all tanks
  * Clumsy        - One shot for Smoky/Gauss

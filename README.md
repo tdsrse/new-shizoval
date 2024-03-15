@@ -30,6 +30,8 @@ Discord server: https://discord.gg/xWSUBhVqmN
 
 
 ![Menu](https://github.com/tdsrse/new-shizoval/blob/main/A1T2Vkvmae4.jpg?raw=true)
+
+
 ![Menu](https://github.com/tdsrse/new-shizoval/blob/main/cJ71qlqfYcU.jpg?raw=true)
 
 

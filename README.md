@@ -16,9 +16,9 @@ Discord server: https://discord.gg/xWSUBhVqmN
  * `Q/E`         - Up/down position for fly hack
  * `W/A/S/D`     - Move with fly hack
  * `F/V`         - Change fly speed
- * `R`           - Teleport shells on enemy (clumsy)
+ * `R`           - Teleport shells on enemy (OneShot)
 
-# How to use Clumsy?
+# How to use OneShot?
  1. Activate this in menu
  2. Choose some enemy in tab (just press on nickname)
  3. Start save shells (just shooting)

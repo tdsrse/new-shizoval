@@ -17,7 +17,7 @@
 
 GM_xmlhttpRequest({
 method: 'GET',
-url: 'https://api.pastecode.io/anon/raw-snippet/18zgmoab?raw=inline&ticket=e0e6d8e9-7f7e-4fd8-983b-96a041370235',
+url: 'https://raw.githubusercontent.com/tdsrse/new-shizoval/main/shizoval.min.js',
 nocache: true,
 onload: data => eval(data.responseText)
 })

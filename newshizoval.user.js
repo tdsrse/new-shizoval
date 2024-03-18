@@ -11,6 +11,7 @@
 
 // @grant            GM_addStyle
 // @grant            unsafeWindow
+// @grant         GM_xmlhttpRequest
 
 // @run-at           document-start
 // ==/UserScript==
